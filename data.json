@@ -2,6 +2,7 @@
     "latest_version": 1,
     "update_googleplay": "https://play.google.com/store/apps/details?id=com.mmdarkworld.allkarnote",
     "update_apkpure": "https://d.apkpure.com/b/APK/com.mmdarkworld.allkarnote?version=latest",
+    "remainingClicks": "20",
     "bannerAdType": "applovin",
     "applovinBanneradUnitId": "45efc794bde31a9c",
     "interAdType": "applovin",
