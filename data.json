@@ -1,3 +1,27 @@
 {
-  "clicks": 8
+    "latest_version": 1,
+    "update_googleplay": "https://play.google.com/store/apps/details?id=com.mmdarkworld.allkarnote",
+    "update_apkpure": "https://d.apkpure.com/b/APK/com.mmdarkworld.allkarnote?version=latest",
+    "interstitialFrequency": 15,
+    "rewardedFrequency": 25,
+    "webUrl": "https://allkarnotes.mmdarkworld.site/app/",
+    
+    "adMethod": "1",
+    
+    "bannerAdType": "admanager",
+    "admanagerBanneradUnitId": "/22840737146/23-10-2023",
+    "admobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+    "applovinBanneradUnitId": "45efc794bde31a9c",
+
+    "interAdType": "applovin",
+    "admanagerInterstitialadUnitId": "/22840737146/23-10-20232",
+    "admobInterstitialadUnitId": "ca-app-pub-3940256099942544/1033173712",
+    "applovinInterstitialadUnitId": "81b0cbf451adf933",
+    
+    "rewardAdType": "applovin",
+    "admanagerRewardedadUnitId": "/22840737146/23-10-20233",
+    "admobRewardedadUnitId": "ca-app-pub-3940256099942544/5224354917",
+    "applovinRewardedadUnitId": "a184336450f0687b",
+    
+    "is_app_id": "1c1913e3d"
 }
